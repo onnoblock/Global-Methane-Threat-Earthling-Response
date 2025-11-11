@@ -48,5 +48,5 @@ This project is spiritually grounded in the belief that every emission avoided, 
 
 ## 📬 Contact
 
-Curated by [Equity et Fides Hybrid Online Justice Institute](https://github.com/your-profile)  
+Curated by [Equity et Fides Hybrid Online Justice Institute](https://github.com/onnoblock)  
 Location: Barangay Poblacion, Tacurong City, Philippines  
