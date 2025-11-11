@@ -56,6 +56,8 @@
 
 ## 📬 Contact
 
-For dashboard templates, QR hygiene guides, or signage-ready comfort boards, visit:  
-[Equity et Fides Hybrid Online Justice Institute](https://github.com/your-profile)
+For dashboard templates, QR hygiene guides, or signage-ready comfort boards, reach us at:  
+📬 [equity.et.fides@gmail.com](mailto:equity.et.fides@gmail.com)  
+🌐 [Equity et Fides Hybrid Online Justice Institute](https://github.com/onnoblock)
+
 
