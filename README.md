@@ -3,7 +3,7 @@ A civic, ethically grounded, and signage-ready response to the global methane cr
 
 # 🌍 The Global Threat of Methane — and What We Should Do as Earthlings
 
-This repository is a signage-ready, spiritually grounded, and youth-trainable response to the global methane crisis. It is designed for civic stewards, barangay leaders, youth volunteers, and local governments who seek to transform methane from a climate threat into a fuel asset and a legacy of comfort.
+This repository is a signage-ready, ethically grounded, and youth-trainable response to the global methane crisis. It is designed for civic stewards, barangay leaders, youth volunteers, and local governments who seek to transform methane from a climate threat into a fuel asset and a legacy of comfort.
 
 ## 🧭 Purpose
 
