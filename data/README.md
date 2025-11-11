@@ -11,3 +11,5 @@ Emissions avoided (kg CO₂e)
 Youth co-signatures and verifier initials
 
 <img width="735" height="306" alt="image" src="https://github.com/user-attachments/assets/ca69f177-5067-491f-b21b-603532af337b" />
+
+<img width="629" height="289" alt="image" src="https://github.com/user-attachments/assets/a2577ec1-24b4-484c-97b7-f6114d45c648" />
